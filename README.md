@@ -1,9 +1,8 @@
-=======
+
 Deleta Audios no Asteirisk
 =======
 Script para deletar áudios de gravações de chamada a cada 4 dias para Asterisk
 
-=======
 License
 =======
 
